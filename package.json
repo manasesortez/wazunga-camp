@@ -1,0 +1,23 @@
+{
+  "name": "wazunga_camp",
+  "version": "1.0.0",
+  "description": "this is a document to learn more the Javascript and your topic more important",
+  "main": "index.js",
+  "scripts": {
+    "object": "node src/objects/index.js",
+    "callback": "node src/callback/index.js",
+    "array": "node src/arrays-function/index.js"
+  },
+  "keywords": [
+    "callback",
+    "objetos",
+    "reducer",
+    "map",
+    "filter"
+  ],
+  "author": "amto_dev",
+  "license": "MIT",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
+}
